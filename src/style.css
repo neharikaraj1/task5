@@ -1,0 +1,20 @@
+body{
+    align-items: center;
+    margin:auto;
+    text-align: center;
+  }
+  
+  .hike{
+    background-color:rgb(41, 41, 231);
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width:150px;
+  
+  
+  }
+  
